@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\BlankReplace\BlankReplace\bin\Debug\BlankReplace.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\BlankReplace\BlankReplace\bin\Debug\BlankReplace.exe
+c:\users\texas\documents\visual studio 2015\Projects\BlankReplace\BlankReplace\bin\Debug\BlankReplace.pdb
+c:\users\texas\documents\visual studio 2015\Projects\BlankReplace\BlankReplace\obj\Debug\BlankReplace.csprojResolveAssemblyReference.cache
+c:\users\texas\documents\visual studio 2015\Projects\BlankReplace\BlankReplace\obj\Debug\BlankReplace.exe
+c:\users\texas\documents\visual studio 2015\Projects\BlankReplace\BlankReplace\obj\Debug\BlankReplace.pdb
